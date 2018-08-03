@@ -45,7 +45,7 @@ class TodoListItem extends React.Component {
 class TodoListView extends React.Component {
     render() {
         return(
-            <li>{this.props.name} {this.props.phone}</li>
+            <li>gkdkgkd</li>
         );
     }
 }
