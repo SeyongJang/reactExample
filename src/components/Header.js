@@ -7,6 +7,9 @@ const Header = () => {
             <div className="title">
                 Todo list
             </div>
+            <div className="title">
+                Todo list
+            </div>
         </div>
     );
 };
