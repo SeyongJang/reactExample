@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lskjflkasjdf
 askdfjlkasjfd
 askdfjlkasjfd
@@ -56,3 +57,6 @@ askdfjlkasjfd
 dafhsdkjflkajsndcvkasnclkscdl;askdfasdfvsc
 testtestetestsetsetes
 asdfasdfasdf
+=======
+conflict test by ryuha
+>>>>>>> master
