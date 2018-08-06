@@ -31,6 +31,13 @@ askdfjlkasjfd
 askdfjlkasjfd
 askdfjlkasjfd
 askdfjlkasjfd
-=======
-dafhsdkjflkajsndcvkasnclkscdl;askdfasdfvsc
->>>>>>> ryuha24/master
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
+askdfjlkasjfd
