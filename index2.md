@@ -1,5 +1,6 @@
 lskjflkasjdf
 askdfjlkasjfd
+<<<<<<< HEAD
 askdfjlkasjfd
 askdfjlkasjfd
 askdfjlkasjfd
@@ -41,5 +42,7 @@ askdfjlkasjfd
 askdfjlkasjfd
 askdfjlkasjfd
 askdfjlkasjfd
+=======
 dafhsdkjflkajsndcvkasnclkscdl;askdfasdfvsc
 testtestetestsetsetes
+>>>>>>> master
